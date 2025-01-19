@@ -18,6 +18,11 @@
  <a href="https://github.com/Luuck-bit/github-readme-stats">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luuck-bit&line_height=15&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=deba77&hide=html,scss,less&bg_color=282c34&text_color=df6d74&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
+<div style="display: flex">
+ <h2>Framekworks:</h2>
+ <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
 <hr><hr>
 <div>
   <a href="mailto:joaohdn4546@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
