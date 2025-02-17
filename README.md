@@ -1,6 +1,6 @@
  ### Olá, Mundo!
 
-- 🔭 I’m currently working with JavaScript;
+- 🔭 I’m currently working with JavaScript and Python;
 - 🌱 I’m currently learning JavaScript (WebDevelopment);
 - 💬 Ask me about Technology.
 <hr>
